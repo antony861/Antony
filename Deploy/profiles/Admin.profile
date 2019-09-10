@@ -3,7 +3,7 @@
     <applicationVisibilities>
          <application>standard__AppLauncher</application>
         <default>false</default>
-        <visible>true</visible>
+         <visible>true</visible>
     </applicationVisibilities>
     <applicationVisibilities>
         <application>standard__Chatter</application>
